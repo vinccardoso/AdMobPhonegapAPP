@@ -25,7 +25,9 @@ xmlns:cdv="http://cordova.apache.org/ns/1.0">
    
     <preference name="orientation" value="portrait" />
     <preference name="android-build-tool" value="gradle" /> 
-    <plugin name="cordova-plugin-admobpro" source="npm" ><variable name="ADMOB_APP_ID" value="ca-app-pub-3940256099942544~3347511713" /></plugin>
+    <!-- <plugin name="cordova-plugin-admobpro" source="npm" ><variable name="ADMOB_APP_ID" value="ca-app-pub-3940256099942544~3347511713" /></plugin> -->
+    <plugin name="cordova-plugin-admobpro" source="npm" ><variable name="ADMOB_APP_ID" value="ca-app-pub-1290660232283283~6265723626" /></plugin>
+
     
           
     <preference name="android-build-tool" value="gradle" />
